@@ -1,0 +1,5 @@
+from Windows Search, type in Java.  if Java is installed, Configure Java will appear in the search results. 
+select Configure Java. the Java Control Panel will appear.  alternatively, it can be found by clicking on 
+the Start button on the taskbar, then All Apps, where Java will be listed, if it is installed.  the Edge browser 
+allows you to open the same URL in Internet Explorer.  select the More Actions option located at the top 
+of the Edge browser and click on Open with Internet Explorer.
