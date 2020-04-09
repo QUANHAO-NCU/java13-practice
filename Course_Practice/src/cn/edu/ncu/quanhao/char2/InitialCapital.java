@@ -1,9 +1,9 @@
 package cn.edu.ncu.quanhao.char2;
 
-        import java.io.BufferedReader;
-        import java.io.FileNotFoundException;
-        import java.io.FileReader;
-        import java.io.IOException;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 
 public class InitialCapital {
     public static String capitalized(String word) {
@@ -28,7 +28,7 @@ public class InitialCapital {
                 line = bufferedReader.readLine();
             }
             String content = s.toString();
-            /*
+            /**
              *由于给出的article句于句之间的分隔并不固定
              * 有的是.号后仅一个空格，有的跟了两个空格，所以采用两次正则化
              * */
@@ -36,16 +36,17 @@ public class InitialCapital {
             for (int i = 0; i < result.length; i++) {
                 int first = 0;
                 String[] tempArrays = result[i].split(" ");
-                while (first<tempArrays.length){
+                while (first < tempArrays.length) {
                     //只有比对hashCode才能判断是否相同
-                    if(tempArrays[first].hashCode()!="".hashCode())break;
+                    //寻找正确的首字母
+                    if (tempArrays[first].hashCode() != "".hashCode()) break;
                     first++;
                 }
                 tempArrays[first] = capitalized(tempArrays[first]);
                 String temp = new String("");
                 for (int j = first; j < tempArrays.length; j++) {
                     temp += tempArrays[j];
-                    if(j==tempArrays.length-1)break;
+                    if (j == tempArrays.length - 1) break;
                     temp += " ";
                 }
                 temp += ".\n";

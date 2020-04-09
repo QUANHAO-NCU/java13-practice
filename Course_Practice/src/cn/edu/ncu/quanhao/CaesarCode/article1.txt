@@ -1,0 +1,14 @@
+The arrival of Java 13
+Sharat Chander 
+DIRECTOR, JAVA SE PRODUCT MANAGEMENT 
+
+With the release of Java 9 in 2017, the Java release schedule shifted, 
+from a major release every 3+ years to a feature release every six-months.  
+One of the main reasons for this change was to offer developers more predictable 
+access to continued enhancements. Feature releases now reliably occur in March 
+and September of every year, which means developer no longer have to manage 
+hundreds of changes every few years all at once.  By gaining access to new 
+enhancements at a more granular and faster measure, developers can much 
+more easily manage the pace of innovation as proven by Java 10 offering 12 
+new enhancements, Java 11 offering 17 new enhancements, and Java 12 
+offering 8 new enhancements.
