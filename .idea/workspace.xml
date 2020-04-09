@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb21612-154d-41b8-ac36-242ef611b863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/CaesarCode/article1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/ControlPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/DrawTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/MyTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/SierpinskiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/SierpinskiRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/InitialCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/InitialCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/ChessPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/ChessPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/FiveChess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/FiveChess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/GameLaunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/GameLaunch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/PlayAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/PlayAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/InitialCapital.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/InitialCapital.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/controller/PlayAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/entity/FiveChess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/enums/Side.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/view/ChessPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java13-practice/Pen$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java13-practice/Pen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java13-practice/cn/edu/ncu/quanhao/chapter01/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java13-practice/cn/edu/ncu/quanhao/chapter01/Person.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SierpinskiTest">
+  <component name="RunManager" selected="Application.SierpinskiRectangle">
     <configuration name="CaesarCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.CaesarCode.CaesarCode" />
       <module name="Course_Practice" />
@@ -120,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaFx_CircleAreaCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.char2.JavaFx_CircleAreaCounter" />
+    <configuration name="JavaFx_YearlyCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.char2.JavaFx_YearlyCalendar" />
       <module name="Course_Practice" />
       <extension name="coverage">
         <pattern>
@@ -133,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaFx_YearlyCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.char2.JavaFx_YearlyCalendar" />
+    <configuration name="SierpinskiRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.SierpinskiRectangle.SierpinskiRectangle" />
       <module name="Course_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.ncu.quanhao.char2.*" />
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.SierpinskiRectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SierpinskiRectangle" />
         <item itemvalue="Application.SierpinskiTest" />
         <item itemvalue="Application.CaesarCode" />
         <item itemvalue="Application.GameLaunch" />
         <item itemvalue="Application.JavaFx_YearlyCalendar" />
-        <item itemvalue="Application.JavaFx_CircleAreaCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -213,8 +213,16 @@
       <workItem from="1586255988992" duration="610000" />
       <workItem from="1586310236922" duration="3393000" />
       <workItem from="1586348849821" duration="4686000" />
-      <workItem from="1586410742628" duration="1895000" />
+      <workItem from="1586410742628" duration="8007000" />
     </task>
+    <task id="LOCAL-00001" summary="3th week homework">
+      <created>1586425933583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586425933583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +240,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3th week homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="3th week homework" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
