@@ -24,7 +24,7 @@ public class DrawingControl extends Pane {
     DrawingControl(double level, double MaxLen) {
         this.level = level;
         this.MaxLen = MaxLen;
-        canvas = new Canvas(MaxLen + 50 * 2, MaxLen + 50 * 2);
+        canvas = new Canvas(MaxLen + 50 * 4, MaxLen + 50 * 4);
         this.gc = canvas.getGraphicsContext2D();
         generate(level, MaxLen);
         getChildren().add(canvas);
