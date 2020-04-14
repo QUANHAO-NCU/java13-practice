@@ -8,7 +8,7 @@ public class SierpinskiTest extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
 
-        ControlPen cp = new ControlPen(5,420);
+        ControlPen cp = new ControlPen(3,420);
         Scene scene = new Scene(cp,500,500);
         primaryStage.setScene(scene);
         primaryStage.setTitle("塞尔平斯基三角形");
