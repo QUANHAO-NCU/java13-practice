@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb21612-154d-41b8-ac36-242ef611b863" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Sierpinski/SierpinskiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Sierpinski/SierpinskiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/View/PlayerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/View/TeamView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/View/Tips" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/Module/FootballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/FootballTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/Module/FootballTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FootballLeagueScoringSystem/MatchControl.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +184,10 @@
       <workItem from="1586657094490" duration="175000" />
       <workItem from="1586660885403" duration="5544000" />
       <workItem from="1586676388136" duration="3916000" />
-      <workItem from="1586857339782" duration="2518000" />
+      <workItem from="1586857339782" duration="3088000" />
+      <workItem from="1586862340160" duration="944000" />
+      <workItem from="1586867058654" duration="598000" />
+      <workItem from="1586914178656" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="3th week homework">
       <created>1586425933583</created>
