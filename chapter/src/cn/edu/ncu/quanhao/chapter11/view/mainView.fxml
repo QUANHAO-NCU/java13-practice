@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.collections.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity"
+            minHeight="-Infinity" minWidth="-Infinity"
+            fx:controller="cn.edu.ncu.quanhao.chapter11.controller.handle"
+            prefHeight="400.0" prefWidth="800.0"
+            xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+    <center>
+        <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <children>
+                <TextField alignment="CENTER" fx:id="xTxt">
+                    <HBox.margin>
+                        <Insets left="50.0" />
+                    </HBox.margin>
+                </TextField>
+                <ComboBox fx:id="sign" prefWidth="150.0">
+                    <items>
+                        <FXCollections fx:factory="observableArrayList">
+                            <String fx:value="+" />
+                            <String fx:value="-" />
+                            <String fx:value="x" />
+                            <String fx:value="÷" />
+                        </FXCollections>
+                    </items>
+                </ComboBox>
+                <TextField fx:id="yTxt" />
+                <Button fx:id="equalBtn" mnemonicParsing="false" text="=" onAction="#action"/>
+                <TextField fx:id="resultTxt" />
+            </children>
+        </HBox>
+    </center>
+    <top>
+        <Label text="计算器" textFill="#49ae5d" BorderPane.alignment="CENTER">
+            <font>
+                <Font name="Microsoft YaHei" size="50.0" />
+            </font>
+        </Label>
+    </top>
+</BorderPane>
