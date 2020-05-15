@@ -20,51 +20,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb21612-154d-41b8-ac36-242ef611b863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter/chapter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/experiment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_graphics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/javafx_graphics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter10/StudentManSys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter10/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter10/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter10/article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/MyInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/StackOfInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/Course_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/article.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/CaesarCode/article1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/article1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/DynamicDrawing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Exam/SecondExam/MyInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Exam/SecondExam/MyPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Exam/SecondExam/StackOfIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FiveChess/ChessPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/ChessPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FiveChess/FiveChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/FiveChess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FiveChess/GameLaunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/GameLaunch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/FiveChess/PlayAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/PlayAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/InterfacePractice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/InterfacePractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/InterfacePractice/birthdayComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/birthdayComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/InterfacePractice/idComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/idComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/InterfacePractice/nameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/nameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/ControlPen.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/ControlPen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/DrawTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/DrawTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/MyTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/Sierpinski/SierpinskiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/SierpinskiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/DrawRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/DrawingControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/MyRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/SierpinskiRectangle/SierpinskiRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/SierpinskiRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/BigInterFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/BigInterFactorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/BinaryMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/BinaryMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/CircleAreaCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/CircleAreaCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/InitialCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InitialCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/JavaFx_CircleAreaCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/JavaFx_CircleAreaCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/JavaFx_YearlyCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/JavaFx_YearlyCalendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/PrintMonthlyCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/PrintMonthlyCalendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/PrintStudentInfomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/PrintStudentInfomation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/format_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/format_input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/cn/edu/ncu/quanhao/char2/format_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/format_print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course_Practice/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/记录.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/BigInterFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter03/BigInterFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/BinaryMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter03/BinaryMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter06/Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/CircleAreaCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter06/CircleAreaCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InitialCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter05/InitialCapital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter9/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/birthdayComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter9/birthdayComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/idComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter9/idComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/InterfacePractice/nameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter9/nameComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/JavaFx_CircleAreaCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter06/JavaFx_CircleAreaCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/JavaFx_YearlyCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter07/JavaFx_YearlyCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/PrintMonthlyCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter07/PrintMonthlyCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/PrintStudentInfomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter08/PrintStudentInfomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter08/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter05/article.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/format_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter02/format_input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/format_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter02/format_print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/DrawRectangleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/DrawRectangleStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/DrawTriangleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/DrawTriangleStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/MyRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/MyTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/SierpinskiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/SierpinskiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/Sierpinsky/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/ChessPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/FiveChess/ChessPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/FiveChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/FiveChess/FiveChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/GameLaunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/FiveChess/GameLaunch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/FiveChess/PlayAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/FiveChess/PlayAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/ControlPen.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinski/ControlPen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/DrawTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinski/DrawTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinski/MyTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/Sierpinski/SierpinskiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinski/SierpinskiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/DrawRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/DrawingControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/SierpinskiRectangle/SierpinskiRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/SierpinskiRectangle/SierpinskiRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java13-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaCourse.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +95,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -114,7 +120,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
-    <property name="last_opened_file_path" value="C:/Program Files/Java/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib/src.zip!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter10" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -123,25 +129,27 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\java13-practice\experiment\src\cn\edu\ncu\quanhao\CaesarCode" />
+      <recent name="D:\JAVA\java13-practice\chapter\src\cn\edu\ncu\quanhao\chapter05" />
       <recent name="D:\JAVA\java13-practice\char\src\cn\edu\ncu\quanhao" />
       <recent name="D:\java13-practice\Course_Practice\src\sierpinskiRectangle" />
       <recent name="D:\java13-practice" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\java13-practice\chapter\src\cn\edu\ncu\quanhao\chapter10" />
       <recent name="D:\java13-practice\Course_Practice\src\test" />
       <recent name="D:\java13-practice\Course_Practice\src\cn\edu\ncu\quanhao\CaesarCode" />
       <recent name="D:\java13-practice\Course_Practice\src\cn\edu\ncu\quanhao\FiveChess" />
       <recent name="D:\java13-practice\Test" />
-      <recent name="D:\java13-practice\Test\src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.JavaFx_CircleAreaCounter">
     <configuration name="BigInterFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.BigInterFactorial" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.chapter03.BigInterFactorial" />
       <module name="chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.ncu.quanhao.*" />
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.CaesarCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +158,11 @@
       </method>
     </configuration>
     <configuration name="JavaFx_CircleAreaCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.JavaFx_CircleAreaCounter" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.chapter06.JavaFx_CircleAreaCounter" />
       <module name="chapter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.ncu.quanhao.*" />
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.CaesarCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,7 +274,7 @@
       <workItem from="1586862340160" duration="944000" />
       <workItem from="1586867058654" duration="598000" />
       <workItem from="1586914178656" duration="766000" />
-      <workItem from="1589517466216" duration="1748000" />
+      <workItem from="1589517466216" duration="3401000" />
     </task>
     <task id="LOCAL-00001" summary="3th week homework">
       <created>1586425933583</created>
@@ -318,10 +326,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1589518799122" />
-    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589519277183">
+    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589521208669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1589519277183" />
+    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1589521208669" />
     <state x="460" y="234" key="DetectedRootsChooserDialog" timestamp="1589519532970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

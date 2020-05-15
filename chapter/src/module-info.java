@@ -7,8 +7,9 @@ module chapter {
     requires javafx.swing;
     requires javafx.web;
     requires javafx.swt;
-    opens cn.edu.ncu.quanhao;
-    opens cn.edu.ncu.quanhao.InterfacePractice;
-    exports cn.edu.ncu.quanhao;
-    exports cn.edu.ncu.quanhao.InterfacePractice;
+    exports cn.edu.ncu.quanhao.chapter05;
+    exports cn.edu.ncu.quanhao.chapter06;
+    exports cn.edu.ncu.quanhao.chapter07;
+    exports cn.edu.ncu.quanhao.chapter08;
+
 }
