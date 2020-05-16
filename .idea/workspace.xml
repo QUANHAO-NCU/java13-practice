@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb21612-154d-41b8-ac36-242ef611b863" name="Default Changelist" comment="">
+    <list default="true" id="8eb21612-154d-41b8-ac36-242ef611b863" name="Default Changelist" comment="experiment sierpingsky3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <recent name="D:\java13-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="BigInterFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.chapter03.BigInterFactorial" />
       <module name="chapter" />
@@ -101,6 +101,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.edu.ncu.quanhao.CaesarCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.Sierpinsky3.Main" />
+      <module name="experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.Sierpinsky3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,26 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSierpinskiRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sierpinskiRectangle.TestSierpinskiRectangle" />
-      <module name="Course_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sierpinskiRectangle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SierpinskiTest" />
         <item itemvalue="Application.JavaFx_CircleAreaCounter" />
         <item itemvalue="Application.BigInterFactorial" />
-        <item itemvalue="Application.TestSierpinskiRectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,8 @@
       <workItem from="1589517466216" duration="3470000" />
       <workItem from="1589521405432" duration="229000" />
       <workItem from="1589547889937" duration="7407000" />
-      <workItem from="1589586625197" duration="1612000" />
+      <workItem from="1589586625197" duration="1933000" />
+      <workItem from="1589588626888" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="3th week homework">
       <created>1586425933583</created>
@@ -238,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586860118103</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="experiment sierpingsky3">
+      <created>1589588564442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589588564442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +268,8 @@
     <MESSAGE value="3th week homework" />
     <MESSAGE value="done SierpinskiRectangle!" />
     <MESSAGE value="InterFace Practice &amp; ninth week work" />
-    <option name="LAST_COMMIT_MESSAGE" value="InterFace Practice &amp; ninth week work" />
+    <MESSAGE value="experiment sierpingsky3" />
+    <option name="LAST_COMMIT_MESSAGE" value="experiment sierpingsky3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1589518799122">

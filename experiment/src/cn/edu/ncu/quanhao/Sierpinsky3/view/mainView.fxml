@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+            prefHeight="600.0" prefWidth="800.0"
+            xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+    <bottom>
+        <HBox alignment="BOTTOM_CENTER" prefHeight="30.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <children>
+                <Label text="层次">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="layoutTxt"/>
+                <Label text="形状">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <ComboBox fx:id="choiceShape" prefWidth="150.0">
+                    <items>
+                        <FXCollections fx:factory="observableArrayList">
+                            <String fx:value="塞尔平斯基三角形"/>
+                            <String fx:value="塞尔平斯基地毯"/>
+                        </FXCollections>
+                    </items>
+                </ComboBox>
+                <Label text="前景色">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <ComboBox fx:id="choiceFrontColor" prefWidth="150.0">
+                    <items>
+                        <FXCollections fx:factory="observableArrayList">
+                            <String fx:value="绿色"/>
+                            <String fx:value="红色"/>
+                            <String fx:value="黄色"/>
+                            <String fx:value="蓝色"/>
+                            <String fx:value="黑色"/>
+                        </FXCollections>
+                    </items>
+                </ComboBox>
+                <Label text="后景色">
+                    <font>
+                        <Font size="18.0"/>
+                    </font>
+                </Label>
+                <ComboBox fx:id="choiceBackColor" prefWidth="150.0">
+                    <items>
+                        <FXCollections fx:factory="observableArrayList">
+                            <String fx:value="绿色"/>
+                            <String fx:value="红色"/>
+                            <String fx:value="黄色"/>
+                            <String fx:value="蓝色"/>
+                            <String fx:value="黑色"/>
+                        </FXCollections>
+                    </items>
+                </ComboBox>
+            </children>
+        </HBox>
+    </bottom>
+    <center>
+        <Canvas height="378.0" width="805.0" BorderPane.alignment="CENTER"/>
+    </center>
+</BorderPane>
