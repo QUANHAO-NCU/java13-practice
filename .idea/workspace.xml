@@ -20,89 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb21612-154d-41b8-ac36-242ef611b863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/controller/handle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/model/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/model/DivZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/view/mainView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/model/MyRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/model/MyTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/META-INF/Course_Practice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/article.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/CaesarCode/article1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/DynamicDrawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Exam/SecondExam/MyInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Exam/SecondExam/MyPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Exam/SecondExam/StackOfIntegers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/ChessPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/FiveChess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/GameLaunch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/FiveChess/PlayAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/Test$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/Test$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/birthdayComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/idComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/InterfacePractice/nameComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Sierpinski/ControlPen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Sierpinski/DrawTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Sierpinski/MyTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/Sierpinski/SierpinskiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/DrawingControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/MyRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/SierpinskiRectangle/SierpinskiRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/BigInterFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/BinaryMultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/Calendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/CircleAreaCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/InitialCapital.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/JavaFx_CircleAreaCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/JavaFx_YearlyCalendar$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/JavaFx_YearlyCalendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/PrintMonthlyCalendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/PrintStudentInfomation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/format_input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/cn/edu/ncu/quanhao/char2/format_print.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/module-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/sierpinskiRectangle/DrawRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/sierpinskiRectangle/MyRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/sierpinskiRectangle/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/sierpinskiRectangle/RectanglePane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course_Practice/sierpinskiRectangle/TestSierpinskiRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/BigInterFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/BinaryMultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/Calendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/CircleAreaCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InitialCapital.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/Test$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/Test$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/birthdayComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/idComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/InterfacePractice/nameComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/JavaFx_CircleAreaCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/JavaFx_YearlyCalendar$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/JavaFx_YearlyCalendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/PrintMonthlyCalendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/PrintStudentInfomation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/article.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/format_input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/format_print.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/char/cn/edu/ncu/quanhao/article.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java13-practice/META-INF/java13-practice.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,6 +215,7 @@
       <workItem from="1589517466216" duration="3470000" />
       <workItem from="1589521405432" duration="229000" />
       <workItem from="1589547889937" duration="7407000" />
+      <workItem from="1589586625197" duration="1612000" />
     </task>
     <task id="LOCAL-00001" summary="3th week homework">
       <created>1586425933583</created>
