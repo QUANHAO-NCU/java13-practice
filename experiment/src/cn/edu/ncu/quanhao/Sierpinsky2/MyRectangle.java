@@ -9,7 +9,7 @@ public class MyRectangle {
     double SubWidth, SubHeight;
     private Color color;
 
-    MyRectangle(double X, double Y, double width, double height, double level, Color color) {
+    public MyRectangle(double X, double Y, double width, double height, double level, Color color) {
         this.X = X;
         this.Y = Y;
         this.width = width;
@@ -19,7 +19,7 @@ public class MyRectangle {
         CalParameters();//计算子矩形的坐标参数
     }
 
-    MyRectangle(double[] data, double level,Color color) {
+    public MyRectangle(double[] data, double level, Color color) {
         this.X = data[0];
         this.Y = data[1];
         this.width = data[2];

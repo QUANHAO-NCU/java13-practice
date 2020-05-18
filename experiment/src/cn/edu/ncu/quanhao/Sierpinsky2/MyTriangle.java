@@ -7,12 +7,12 @@ import javafx.scene.paint.Color;
  * 记录三角形的坐标，层次
  */
 public class MyTriangle {
-    double xTop, xRight, xLeft, yTop, yRight, yLeft;
+    public double xTop, xRight, xLeft, yTop, yRight, yLeft;
     private Color color;
     private int level;
 
-    MyTriangle(Color color, int level, double xTop, double xLeft, double xRight,
-               double yTop, double yLeft, double yRight) {
+    public MyTriangle(Color color, int level, double xTop, double xLeft, double xRight,
+                      double yTop, double yLeft, double yRight) {
         this.color = color;
         this.level = level;
         this.xTop = xTop;

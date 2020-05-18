@@ -2,18 +2,20 @@ package cn.edu.ncu.quanhao.Sierpinsky3.model;
 
 import javafx.scene.paint.Color;
 
+import java.util.Objects;
+
 /**
  * 抽象模型 M
  * 记录三角形的坐标，层次
  */
 public class MyTriangle {
-    double xTop, xRight, xLeft, yTop, yRight, yLeft;
-    private Color color;
+    public double xTop, xRight, xLeft, yTop, yRight, yLeft;
+    private Color[] colors;
     private int level;
 
-    MyTriangle(Color color, int level, double xTop, double xLeft, double xRight,
-               double yTop, double yLeft, double yRight) {
-        this.color = color;
+    public MyTriangle(Color[] colors, int level, double xTop, double xLeft, double xRight,
+                      double yTop, double yLeft, double yRight) {
+        this.colors = colors;
         this.level = level;
         this.xTop = xTop;
         this.xLeft = xLeft;
@@ -33,9 +35,9 @@ public class MyTriangle {
         return y;
     }
 
-    public Color getColor() {
+    public Color[] getColor() {
 
-        return this.color;
+        return this.colors;
     }
 
     public int getLevel() {
@@ -73,6 +75,9 @@ public class MyTriangle {
         return (this.yLeft + this.yRight) / 2;
     }
 
+    public void setColor(Color[] colors) {
+        this.colors = colors;
+    }
 
     public double[] getCenterX() {
         double[] x = {
@@ -90,5 +95,24 @@ public class MyTriangle {
                 (this.yTop + this.yRight) / 2
         };
         return y;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        MyTriangle that = (MyTriangle) o;
+        return Double.compare(that.xTop, xTop) == 0 &&
+                Double.compare(that.xRight, xRight) == 0 &&
+                Double.compare(that.xLeft, xLeft) == 0 &&
+                Double.compare(that.yTop, yTop) == 0 &&
+                Double.compare(that.yRight, yRight) == 0 &&
+                Double.compare(that.yLeft, yLeft) == 0 &&
+                level == that.level;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(xTop, xRight, xLeft, yTop, yRight, yLeft, level);
     }
 }

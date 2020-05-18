@@ -2,30 +2,32 @@ package cn.edu.ncu.quanhao.Sierpinsky3.model;
 
 import javafx.scene.paint.Color;
 
+import java.util.Objects;
+
 public class MyRectangle {
     private double X, Y, width, height, level;
     private double SubUpLeftX, SubUpCenterX, SubUpRightX, SubCenterLeftX, SubCenterRightX, SubDownLeftX, SubDownCenterX, SubDownRightX;
     double SubUpLeftY, SubUpCenterY, SubUpRightY, SubCenterLeftY, SubCenterRightY, SubDownLeftY, SubDownCenterY, SubDownRightY;
     double SubWidth, SubHeight;
-    private Color color;
+    private Color[] colors;
 
-    MyRectangle(double X, double Y, double width, double height, double level, Color color) {
+    public MyRectangle(double X, double Y, double width, double height, double level, Color[] colors) {
         this.X = X;
         this.Y = Y;
         this.width = width;
         this.height = height;
         this.level = level;
-        this.color = color;
+        this.colors = colors;
         CalParameters();//计算子矩形的坐标参数
     }
 
-    MyRectangle(double[] data, double level,Color color) {
+    public MyRectangle(double[] data, double level, Color[] colors) {
         this.X = data[0];
         this.Y = data[1];
         this.width = data[2];
         this.height = data[3];
         this.level = level;
-        this.color = color;
+        this.colors = colors;
         CalParameters();//计算子矩形的坐标参数
     }
 
@@ -120,7 +122,26 @@ public class MyRectangle {
         return this.level;
     }
 
-    public Color getColor() {
-        return this.color;
+    public Color[] getColor() {
+        return this.colors;
+    }
+    public void setColor(Color[] colors) {
+        this.colors = colors;
+    }
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        MyRectangle that = (MyRectangle) o;
+        return Double.compare(that.X, X) == 0 &&
+                Double.compare(that.Y, Y) == 0 &&
+                Double.compare(that.width, width) == 0 &&
+                Double.compare(that.height, height) == 0 &&
+                Double.compare(that.level, level) == 0;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(X, Y, width, height, level);
     }
 }

@@ -7,6 +7,7 @@ module experiment {
     requires javafx.swing;
     requires javafx.web;
     requires javafx.swt;
+    requires java.management;
     exports cn.edu.ncu.quanhao.FiveChess;
     exports cn.edu.ncu.quanhao.Sierpinski;
     exports cn.edu.ncu.quanhao.SierpinskiRectangle;
@@ -17,5 +18,7 @@ module experiment {
     opens cn.edu.ncu.quanhao.SierpinskiRectangle;
     opens cn.edu.ncu.quanhao.Sierpinsky2;
     opens cn.edu.ncu.quanhao.Sierpinsky3;
+    exports cn.edu.ncu.quanhao.Sierpinsky3.controller;
+    opens cn.edu.ncu.quanhao.Sierpinsky3.controller;
 
 }
