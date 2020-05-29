@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<AnchorPane prefHeight="206.0" prefWidth="229.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cn.edu.ncu.quanhao.Exception.EmployeeSalaryManagementSystem.Controller.AddEmployee">
+   <children>
+      <Label alignment="CENTER" layoutY="-1.0" prefHeight="23.0" prefWidth="88.0" text="工号">
+         <font>
+            <Font name="Microsoft YaHei" size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="id" layoutX="88.0" layoutY="-1.0" prefHeight="34.0" prefWidth="161.0" />
+      <TextField fx:id="name" layoutX="88.0" layoutY="33.0" prefHeight="34.0" prefWidth="161.0" />
+      <Label alignment="CENTER" layoutY="33.0" prefHeight="34.0" prefWidth="88.0" text="姓名">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutY="67.0" prefHeight="34.0" prefWidth="88.0" text="职务">
+         <font>
+            <Font name="Microsoft YaHei" size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="position" layoutX="88.0" layoutY="67.0" prefHeight="34.0" prefWidth="161.0" />
+      <TextField fx:id="salary" layoutX="88.0" layoutY="101.0" prefHeight="34.0" prefWidth="161.0" />
+      <Label alignment="CENTER" layoutY="101.0" prefHeight="34.0" prefWidth="88.0" text="工资">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="addBtn" layoutX="40.0" layoutY="152.0" mnemonicParsing="false" onAction="#addEmployee" prefHeight="27.0" prefWidth="169.0" text="添加员工">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

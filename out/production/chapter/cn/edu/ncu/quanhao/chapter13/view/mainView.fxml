@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cn.edu.ncu.quanhao.chapter13.controller.FileChooserAction">
+    <children>
+        <ScrollPane hbarPolicy="NEVER" prefHeight="296.0" prefWidth="600.0">
+            <content>
+                <TextArea fx:id="content" prefHeight="294.0" prefWidth="597.0" />
+            </content>
+        </ScrollPane>
+        <Button fx:id="toBinaryBtn" layoutX="142.0" layoutY="296.0" mnemonicParsing="false" onAction="#toBinary" prefHeight="23.0" prefWidth="112.0" text="转化为二进制" />
+        <Button fx:id="toHexBtn" layoutX="346.0" layoutY="296.0" mnemonicParsing="false" onAction="#toHex" prefHeight="23.0" prefWidth="112.0" text="转化为十六进制" />
+        <Label alignment="CENTER" layoutY="349.0" prefHeight="23.0" prefWidth="112.0" text="选择文件" />
+        <TextField fx:id="address" layoutX="98.0" layoutY="349.0" onKeyPressed="#getFile" prefHeight="23.0" prefWidth="395.0" />
+        <Button fx:id="checkBtn" layoutX="493.0" layoutY="349.0" mnemonicParsing="false" onAction="#check" prefHeight="23.0" prefWidth="105.0" text="浏览" />
+      <Button fx:id="writeBtn" layoutX="518.0" layoutY="296.0" mnemonicParsing="false" onAction="#saveFile" text="写回文件" />
+      <Button layoutX="252.0" layoutY="296.0" mnemonicParsing="false" onAction="#turnToString" prefHeight="23.0" prefWidth="95.0" text="toString" />
+    </children>
+</AnchorPane>

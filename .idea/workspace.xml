@@ -20,37 +20,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb21612-154d-41b8-ac36-242ef611b863" name="Default Changelist" comment="experiment sierpingsky3">
-      <change afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/Controller/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/Entity/MyRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/Entity/MyTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/View/main.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/sierpinskiRectangle/DrawRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/sierpinskiRectangle/MyStackR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/sierpinskiRectangle/RectanglePane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/sierpinskitest/DrawTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/sierpinskitest/MyStackT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/sierpingsky/sierpinskitest/Siepinskipane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/controller/Drawable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter10/FasterVisitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter12/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter12/DivZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter12/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter13/controller/FileChooserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter13/view/mainView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/PetDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Second/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Second/article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Second/articleO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Third/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Third/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Third/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Third/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/Third/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/first/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/first/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/cn/edu/ncu/quanhao/Final/first/grade.cvs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/Counter/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/Counter/DivZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/Counter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/Counter/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/Controller/AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/Controller/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/Controller/changeSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/Controller/mainViewAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/View/EmployInfo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/View/addEmployee.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/View/changeSalary.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/View/mainView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/module/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/module/SalaryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/myException/SalaryAddTooMore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/myException/SalaryCutTooMore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Exception/EmployeeSalaryManagementSystem/myException/SalaryTooLess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/File/DivZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/File/FileHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/MyRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky2/MyTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/controller/Handel.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/controller/Handel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/model/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/model/MyRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/model/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/model/MyTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/view/mainView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/Sierpinsky3/view/mainView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/chapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/chapter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/controller/handle.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/controller/handle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/model/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/model/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/model/DivZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/cn/edu/ncu/quanhao/chapter11/model/DivZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/experiment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/experiment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiment/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky2/MyRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky2/MyRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky2/MyTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky2/MyTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/controller/Handel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/controller/Handel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/model/MyRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/model/MyRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/model/MyTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/model/MyTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/view/mainView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/Sierpinsky3/view/mainView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/META-INF/Test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/chapter11/controller/handle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/chapter11/controller/handle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/chapter11/model/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/chapter11/model/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/chapter11/model/DivZeroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter/cn/edu/ncu/quanhao/chapter11/model/DivZeroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/cn/edu/ncu/quanhao/CaesarCode/CaesarCode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/experiment/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experiment/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +92,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="D:\" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="FxmlFile" />
-        <option value="Class" />
+        <option value="Interface" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -81,6 +120,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -89,24 +129,15 @@
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="ignore.preview.features.used" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JAVA\java13-practice\Test\src" />
-      <recent name="D:\JAVA\java13-practice\experiment\src\cn\edu\ncu\quanhao\Sierpinsky3\model" />
-      <recent name="D:\JAVA\java13-practice\chapter\src\cn\edu\ncu\quanhao\chapter10" />
-      <recent name="D:\java13-practice\Course_Practice\src\test" />
-      <recent name="D:\java13-practice\Course_Practice\src\cn\edu\ncu\quanhao\CaesarCode" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="cn.edu.ncu.quanhao.Sierpinsky3.model" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JAVA\java13-practice\experiment\src\cn\edu\ncu\quanhao\CaesarCode" />
       <recent name="D:\JAVA\java13-practice\chapter\src\cn\edu\ncu\quanhao\chapter05" />
@@ -114,18 +145,94 @@
       <recent name="D:\java13-practice\Course_Practice\src\sierpinskiRectangle" />
       <recent name="D:\java13-practice" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="cn.edu.ncu.quanhao.Final.first" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.ncu.quanhao.File" />
+      <recent name="cn.edu.ncu.quanhao.Sierpinsky3.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\java13-practice\exam\src\cn\edu\ncu\quanhao\Final\Second" />
+      <recent name="D:\JAVA\java13-practice\exam\src\cn\edu\ncu\quanhao\Final\first" />
+      <recent name="D:\JAVA\java13-practice\experiment\src\cn\edu\ncu\quanhao\Exception\Counter" />
+      <recent name="D:\JAVA\java13-practice\chapter\src\cn\edu\ncu\quanhao\chapter10" />
+      <recent name="D:\JAVA\java13-practice\Test\src" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sierpingsky.Main" />
-      <module name="Test" />
+  <component name="RunManager" selected="Application.SierpinskiRectangle">
+    <configuration name="CaesarCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.CaesarCode.CaesarCode" />
+      <module name="experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.CaesarCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.Final.Second.Main" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.Final.Second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.Final.Third.Main" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.Final.Third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SierpinskiRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.SierpinskiRectangle.SierpinskiRectangle" />
+      <module name="experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.SierpinskiRectangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SierpinskiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ncu.quanhao.Sierpinski.SierpinskiTest" />
+      <module name="experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ncu.quanhao.Sierpinski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SierpinskiRectangle" />
+        <item itemvalue="Application.SierpinskiTest" />
+        <item itemvalue="Application.CaesarCode" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +301,24 @@
       <workItem from="1589680970458" duration="614000" />
       <workItem from="1589713355427" duration="7944000" />
       <workItem from="1589787213448" duration="972000" />
+      <workItem from="1589805172298" duration="129000" />
+      <workItem from="1589875693851" duration="1280000" />
+      <workItem from="1589898891710" duration="372000" />
+      <workItem from="1589928029769" duration="203000" />
+      <workItem from="1590024663864" duration="4321000" />
+      <workItem from="1590032504296" duration="1360000" />
+      <workItem from="1590043907613" duration="14846000" />
+      <workItem from="1590071499808" duration="2026000" />
+      <workItem from="1590104233925" duration="11605000" />
+      <workItem from="1590116028516" duration="9866000" />
+      <workItem from="1590146595962" duration="199000" />
+      <workItem from="1590190310635" duration="6009000" />
+      <workItem from="1590202502846" duration="21988000" />
+      <workItem from="1590235073701" duration="4473000" />
+      <workItem from="1590386451862" duration="14000" />
+      <workItem from="1590646709271" duration="8226000" />
+      <workItem from="1590661282177" duration="2421000" />
+      <workItem from="1590709904696" duration="782000" />
     </task>
     <task id="LOCAL-00001" summary="3th week homework">
       <created>1586425933583</created>
@@ -253,82 +378,113 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1589518799122" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589725581322">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590109667772">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589725581322" />
-    <state x="824" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1589728113832">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590109667772" />
+    <state x="422" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590649432526">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="824" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589728113832" />
-    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589521208669">
+    <state x="422" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590649432526" />
+    <state x="824" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1590653623397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1589521208669" />
+    <state x="824" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590653623397" />
+    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590709933361">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1590709933361" />
     <state x="439" y="231" width="490" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589604295676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="439" y="231" width="490" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1589604295676" />
+    <state x="190" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590072399448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="190" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1590072399448" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590114435278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590114435278" />
+    <state x="426" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590666953260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1590666953260" />
+    <state width="506" height="466" key="DebuggerActiveHint" timestamp="1590114919018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="506" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1590114919018" />
     <state x="460" y="234" key="DetectedRootsChooserDialog" timestamp="1589519532970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="460" y="234" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1589519532970" />
-    <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1589519529369">
+    <state x="357" y="105" key="FileChooserDialogImpl" timestamp="1590667278382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="357" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589519529369" />
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom" timestamp="1589767361847">
+    <state x="357" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590667278382" />
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom" timestamp="1590669067063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589767361847" />
-    <state width="1323" height="204" key="GridCell.Tab.0.center" timestamp="1589767361846">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590669067063" />
+    <state width="1323" height="218" key="GridCell.Tab.0.center" timestamp="1590669067063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589767361846" />
-    <state width="1323" height="204" key="GridCell.Tab.0.left" timestamp="1589767361846">
+    <state width="1323" height="218" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590669067063" />
+    <state width="1323" height="218" key="GridCell.Tab.0.left" timestamp="1590669067063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589767361846" />
-    <state width="1323" height="204" key="GridCell.Tab.0.right" timestamp="1589767361847">
+    <state width="1323" height="218" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590669067063" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right" timestamp="1590669067063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589767361846" />
-    <state width="1323" height="387" key="GridCell.Tab.1.bottom" timestamp="1589615349879">
+    <state width="1323" height="218" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590669067063" />
+    <state width="1323" height="241" key="GridCell.Tab.1.bottom" timestamp="1590240210729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589615349879" />
-    <state width="1323" height="387" key="GridCell.Tab.1.center" timestamp="1589615349879">
+    <state width="1323" height="241" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590240210729" />
+    <state width="1323" height="241" key="GridCell.Tab.1.center" timestamp="1590240210728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589615349879" />
-    <state width="1323" height="387" key="GridCell.Tab.1.left" timestamp="1589615349879">
+    <state width="1323" height="241" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590240210728" />
+    <state width="1323" height="241" key="GridCell.Tab.1.left" timestamp="1590240210728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589615349879" />
-    <state width="1323" height="387" key="GridCell.Tab.1.right" timestamp="1589615349879">
+    <state width="1323" height="241" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590240210727" />
+    <state width="1323" height="241" key="GridCell.Tab.1.right" timestamp="1590240210728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589615349879" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1589626751252">
+    <state width="1323" height="241" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590240210728" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1590072734307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589626751252" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590072734307" />
+    <state width="691" height="388" key="XDebugger.FullValuePopup" timestamp="1590239589208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="388" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1590239589208" />
     <state x="57" y="0" key="new project wizard" timestamp="1589717643503">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589717643503" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589622503955">
+    <state x="384" y="120" key="refactoring.ChangeSignatureDialog" timestamp="1590064110324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589622503955" />
+    <state x="384" y="120" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1590064110324" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590224589411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590224589411" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="Application">
-        <watch expression="result" language="JAVA" />
-        <watch expression="l" />
-        <watch expression="Rec" />
+        <watch expression="bytes" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java13_practice$Main.ic" NAME="Main Coverage Results" MODIFIED="1590111788540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ncu.quanhao.Exception.EmployeeSalaryManagementSystem.*</FILTER>
+    </SUITE>
   </component>
 </project>

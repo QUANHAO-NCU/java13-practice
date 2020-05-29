@@ -8,6 +8,7 @@ module experiment {
     requires javafx.web;
     requires javafx.swt;
     requires java.management;
+    requires java.sql;
     exports cn.edu.ncu.quanhao.FiveChess;
     exports cn.edu.ncu.quanhao.Sierpinski;
     exports cn.edu.ncu.quanhao.SierpinskiRectangle;
@@ -20,5 +21,8 @@ module experiment {
     opens cn.edu.ncu.quanhao.Sierpinsky3;
     exports cn.edu.ncu.quanhao.Sierpinsky3.controller;
     opens cn.edu.ncu.quanhao.Sierpinsky3.controller;
-
+    exports cn.edu.ncu.quanhao.Exception.EmployeeSalaryManagementSystem.Controller;
+    opens cn.edu.ncu.quanhao.Exception.EmployeeSalaryManagementSystem.Controller;
+    exports cn.edu.ncu.quanhao.Exception.EmployeeSalaryManagementSystem;
+    opens cn.edu.ncu.quanhao.Exception.EmployeeSalaryManagementSystem;
 }

@@ -41,7 +41,7 @@ public class CaesarCode {
         CaesarCode cc = new CaesarCode();
         try {
             StringBuffer s = new StringBuffer();
-            FileReader fr = new FileReader("D:\\java13-practice\\Course_Practice\\src\\cn\\edu\\ncu\\quanhao\\CaesarCode\\article1.txt");
+            FileReader fr = new FileReader("D:\\JAVA\\java13-practice\\experiment\\src\\cn\\edu\\ncu\\quanhao\\CaesarCode\\article1.txt");
             BufferedReader br = new BufferedReader(fr);
             String line = br.readLine();
             while (line != null) {

@@ -15,7 +15,7 @@ public class Counter {
     }
     public double div(double x,double y) throws DivZeroException {
         if(y==0){
-            throw e;
+            throw new DivZeroException(x,y);
         }else return x/y;
     }
 }

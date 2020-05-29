@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#changeSalary" prefHeight="106.0" prefWidth="371.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cn.edu.ncu.quanhao.Exception.EmployeeSalaryManagementSystem.Controller.EmployeeInfo">
+   <children>
+      <AnchorPane fx:id="backgroundPane" onMouseEntered="#changeStyle" onMouseExited="#styleRecover" prefHeight="106.0" prefWidth="371.0" style="-fx-background-color: rgba(51,78,182,0.33);">
+         <children>
+            <Label fx:id="id" alignment="CENTER" contentDisplay="CENTER" layoutX="9.0" prefHeight="47.0" prefWidth="180.0" text="工号">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label fx:id="name" alignment="CENTER" layoutX="211.0" prefHeight="47.0" prefWidth="155.0" text="姓名">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label fx:id="position" alignment="CENTER" layoutX="8.0" layoutY="48.0" prefHeight="58.0" prefWidth="180.0" text="职位">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label fx:id="salary" alignment="CENTER" layoutX="202.0" layoutY="48.0" prefHeight="58.0" prefWidth="155.0" text="薪水">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+         </children>
+         <opaqueInsets>
+            <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+         </opaqueInsets>
+      </AnchorPane>
+   </children>
+</HBox>
